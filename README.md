@@ -1,2 +1,1 @@
-# agenda
-Agenda hecha con HTML, CSS y JavaScript.
+Es una agenda basica que permite almacenar en la memoria ram el nombre de una tarea y una descripcion.
